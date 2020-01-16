@@ -4,3 +4,4 @@ seaweed
 tofu
 fish sauce
 miso
+celery
